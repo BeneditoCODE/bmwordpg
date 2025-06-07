@@ -1,3 +1,14 @@
-*{
+* {
     color: rgb(28, 95, 240);
+
+}
+
+.back {
+    background: #00b7ff;
+    background: linear-gradient(181deg, rgba(0, 183, 255, 1) 29%, rgba(255, 255, 255, 1) 100%, rgba(255, 255, 255, 1) 94%);
+}
+
+footer {
+    margin: 50px;
+    padding: 20px;
 }
