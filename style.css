@@ -5,9 +5,11 @@
 
 .back {
     background: #00b7ff;
-    background: linear-gradient(181deg, rgba(0, 183, 255, 1) 29%, rgba(255, 255, 255, 1) 100%, rgba(255, 255, 255, 1) 94%);
+    background: linear-gradient(181deg, rgba(0, 183, 255, 1) 9%, rgba(255, 255, 255, 1) 100%, rgba(255, 255, 255, 1) 94%);
 }
-
+.nav{
+    background-color: #00b7ff;
+}
 footer {
     margin: 50px;
     padding: 20px;
